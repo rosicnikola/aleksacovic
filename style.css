@@ -1,0 +1,30 @@
+body {
+  background-image: url(images/b2.jpg);
+  background-size: 100%;
+}
+.container {
+  text-align: center;
+  padding: 100px 0;
+  margin: 250px 500px;
+  color: white;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  padding: 0;
+  margin: 0;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+img {
+  width: 40px;
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+img:hover {
+  opacity: 80%;
+}
